@@ -1,46 +1,46 @@
-# Awesome-Energy-Utilities-CRM
+# Awesome Energy & Utilities CRM ⚡
 
-## Top Energy & Utilities CRM Ecosystem
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Energy & Utilities CRM Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Energy-Utilities-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Energy-Utilities-CRM?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Energy-Utilities-CRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Energy-Utilities-CRM?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Energy-Utilities-CRM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+<p align="center">
+  <strong>A curated list of awesome Energy &amp; Utilities CRM platforms, meter-to-cash customer information systems (CIS), AMI smart metering infrastructure, distributed energy resource (DER) billing engines, and open-source mini-grid management tools.</strong>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+---
 
-*Focused on Utility Customer Management, Billing & Field Operations*  
+## 🧭 Table of Contents
 
-**Last updated: March 2026**
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Enterprise Platforms](#-saas--hosted-enterprise-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Utility CRM Architecture & Stack Guide](#️-utility-crm-architecture--stack-guide)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
+## 📊 Sector Overview & Market Dynamics
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Energy & Utilities CRM**. These tools help utilities, retail energy suppliers, and mini-grid operators manage customer relationships, billing cycles, meter data, field service operations, and clean energy programs.
+The global **Energy & Utilities Customer Information System (CIS) and CRM market** is valued between **$2 billion and $10 billion** (projected to scale past **$20 billion** by the 2030s, driven by smart metering, distributed energy resource (DER) adoption, EV charging networks, and grid modernization initiatives).
 
+The sector is **moderately fragmented**: while legacy enterprise titans (**Oracle**, **SAP**, and **Salesforce**) dominate large investor-owned utilities (IOUs), regional regulatory variations, retail energy deregulation, and modern composable cloud architectures have fostered specialized high-growth mid-market competitors and digital customer-engagement platforms.
 
+---
 
-**Examples** include Salesforce Energy and Utilities Cloud, Oracle Utilities Customer Cloud, SAP for Utilities, Hansen Technologies, Gentrack, SEW Smart Customer Mobile, Uplight, VertexOne, Fluentgrid, and Agility CIS (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, smart meter integration, and open utility management — ideal for utilities, mini-grid operators, and developers seeking transparent, vendor-independent customer management solutions.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global Energy & Utilities Customer Information System (CIS) and CRM market is valued between **$2 billion and $10 billion** (scaling past **$20 billion** by the 2030s, driven by smart metering, DER integration, and grid modernization). The sector is **moderately fragmented**: while legacy enterprise titans (Oracle, SAP, and Salesforce) dominate large-scale utility operations, regional regulatory variations, retail deregulation, and modern composable architectures have fostered specialized high-growth mid-market competitors and digital customer-engagement platforms.
-
-## SaaS/Hosted Platforms
+## 🏢 SaaS & Hosted Enterprise Platforms
 
 | Platform | Company Size (Revenue / Valuation) | Pricing | Free Tier / Trial Limit | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,128 +55,87 @@ The global Energy & Utilities Customer Information System (CIS) and CRM market i
 | **[Fluentgrid](https://www.fluentgrid.com/)** | **~₹700M–₹1,000M Valuation** (~₹200M–₹220M Annual Rev) | Modular packages starting from **₹500,000+/year** (~$6,000/year base depending on consumer footprint) | **30-day tailored proof-of-concept / demo sandbox** for municipal and regional utilities (no public free tier) | Smart utility solutions including customer management, billing, and field service management. |
 | **[Agility CIS](https://www.agilitycis.com/)** | **~$150M–$200M Valuation** (Tally Group / SilverTree PE; ~$25M–$40M Rev) | Tiered meter/retailer baseline starting from **$30,000/year** (custom volumetric rates per consumer) | **30-day guided proof-of-concept / demo access** upon sales consultation (no public free tier) | Customer information system for energy and utility retailers. Features billing, CRM, and market operations. |
 
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[MicroPowerManager](https://github.com/EnAccess/micropowermanager-backend)**  
-
-  Open-source management tool for decentralized utilities (Docker Hub, PHP 8.0/Laravel 11/Vue.js 2.6/MySQL 8.4) . Originally developed by INENSUS and first launched in 2020. Provides customer relationship management (CRM), comprehensive ticketing and maintenance system, and asset management for mini-grid operators. Integrates with Steamaco, Spark, Calin, and Stron smart meters .
-
-
-
-- **[NeoBill](https://sourceforge.net/projects/solidstate/)**  
-
-  Web-based customer management and billing solution for small & medium businesses (GPLv2, PHP 8.3/MySQL) . Features multi-user system, recurring billing for any asset or service, stock tracking, Stripe integration, UPS live rates, and auto-tracking. Designed for extreme performance and tight security.
-
-
-
-- **[Mwanzo Flats Management System](https://github.com/Fredrickmureti/tenant-management-system)**  
-
-  Modern tenant management and utility billing platform (React/TypeScript/Supabase) . Features admin dashboard for tenant management, billing cycles with meter readings and rates, payment tracking with balance auto-computation, and tenant self-service portal. Uses Supabase Auth with Row Level Security (RLS) ensuring tenants can only see their own data.
-
-
-
-- **[InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)**  
-
-  Self-hosted open-source application for managing quotes, invoices, clients, and payments (48.9 MB, v1.7.1) . Provides CRM-like customer management, quotes with one-click client approval, customizable invoice templates, and PayPal integration. Suitable for small utilities and service providers.
-
-
-
-- **[oomi-influx](https://pypi.org/project/oomi-influx/)**  
-
-  Headless ETL tool that pulls 15-minute electricity consumption data from Oomi customer portal (Salesforce Experience Cloud) and writes directly to InfluxDB 2.x . No browser or GUI required — designed to run unattended on Raspberry Pi or Linux server. Replays browser HTTP calls to fetch consumption data.
-
-
-
-- **[openMIC](https://github.com/GridProtectionAlliance/openMIC)**  
-
-  Meter Information Collection system (C#, .NET 4.6+) . Interrogates multiple vendors' DFRs (Digital Fault Recorders) via IP/FTP, Modem RAS, or Modbus. Features scheduled interrogation, data organization, meter problem logging, and mobile-ready web app for status monitoring.
-
-
-
-- **[3PhaseInsight](https://zenodo.org/records/21072541)**  
-
-  Open-source data platform for energy analytics (PostgreSQL/Airflow/Dask/Parquet) . Ingests smart meter time-series data, maintains LV network topology, and runs Data Apps via Airflow DAGs. API serves results via FastAPI. Framework available as Python library (3phi-framework) for building custom analytics.
-
-
-
-- **[metrify-smart-metering](https://github.com/kanhaiya-gupta/DataEngineering-metrify-smart-metering)**  
-
-  Real-time smart meter data pipeline (Python/Kafka/Snowflake/Airflow/dbt) . Features scalable energy data processing with clean architecture, REST API, and enterprise monitoring. Docker and Kubernetes deployment available.
-
-
-
-- **[dlms-bridge-mcp](https://pypi.org/project/dlms-bridge-mcp/)**  
-
-  Bridge DLMS/COSEM smart-meter data to AI systems (Python, v0.1.1) . Parses IEC 62056 meter data and maps to modern systems with NIS2 and GDPR governance. MCP server for AI agent integration.
-
-
-
-- **[aemo-mdff-reader](https://pypi.org/project/aemo-mdff-reader/)**  
-
-  Fast, zero-dependency streaming reader for AEMO NEM12 and NEM13 metering files (Python, MDFF v2.6) . O(1) memory for millions of intervals, ~2M readings/sec on columnar fast path. Includes CLI, pandas/MySQL extras, and validation tools.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[OpenPAYGO Token](https://github.com/EnAccess/OpenPAYGO-Token)** — Open-source token system for PAYGO functionality in energy products (MIT).
-
-- **[OpenPAYGO Pass](https://github.com/EnAccess/OpenPAYGO-Pass)** — Enhanced PAYGO activation for areas without mobile money.
-
-- **[Steama-Meter Package](https://github.com/inensus/Steama-Meter-Package)** — Steamaco meter integration for MicroPowerManager.
-
-- **[Spark Meter Integration](https://github.com/EnAccess)** — Spark meter integration for MicroPowerManager.
-
-- **[Open Smart Meter](https://github.com/search?q=open+smart+meter)** — Open-source GSM smart meter enabling affordable solar energy adoption.
-
-- Community **n8n** workflows for utility billing automation and customer notifications.
-
-
-
-**Frameworks for building custom systems**: Combine **MicroPowerManager** or **NeoBill** as the core utility CRM with **oomi-influx** or **metrify-smart-metering** for consumption data ingestion, **3PhaseInsight** for analytics, and **PostgreSQL** for persistence — creating a fully self-hosted, enterprise-grade energy utility CRM platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Energy utility CRMs handling customer and consumption data must comply with data protection regulations (GDPR, CCPA, etc.) and utility industry regulations.
-
-- Self-hosted open-source solutions require proper security hardening, meter integration configuration, and ongoing maintenance for production reliability.
-
-
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Curated open-source projects for self-hosted utility management, meter-to-cash billing, smart grid IoT, DLMS/COSEM meter data exchange, and PAYGO mini-grid operations, **sorted by GitHub star count (descending)**:
+
+| Project | GitHub Stars | Focus / Category | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Kill Bill](https://github.com/killbill/killbill)** | [![Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Subscription & Utility Billing Engine | Java, MySQL / PostgreSQL | Industrial open-source recurring billing and payment engine suitable for energy retailers, utility account cycles, and complex rating models. |
+| **[InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)** | [![Stars](https://img.shields.io/github/stars/InvoicePlane/InvoicePlane?style=social&color=white)](https://github.com/InvoicePlane/InvoicePlane/stargazers) | Self-Hosted Invoicing & Client Portal | PHP, MySQL | Lightweight open-source client management and recurring billing tool for municipal utilities, local cooperatives, and service providers. |
+| **[OpenRemote](https://github.com/openremote/openremote)** | [![Stars](https://img.shields.io/github/stars/openremote/openremote?style=social&color=white)](https://github.com/openremote/openremote/stargazers) | Smart Grid IoT & Energy Asset Management | Java, TypeScript, Docker | 100% open-source IoT platform for smart city energy distribution, smart meter asset telemetry, automated rule engines, and fleet integration. |
+| **[OpenEMS](https://github.com/OpenEMS/openems)** | [![Stars](https://img.shields.io/github/stars/OpenEMS/openems?style=social&color=white)](https://github.com/OpenEMS/openems/stargazers) | Modular Energy Management System | Java, OSGi, Angular | Comprehensive open-source energy management framework controlling battery storage systems (BESS), inverters, microgrids, and dynamic grid tariffs. |
+| **[SteVe](https://github.com/steve-community/steve)** | [![Stars](https://img.shields.io/github/stars/steve-community/steve?style=social&color=white)](https://github.com/steve-community/steve/stargazers) | EV Charging Station & CPO Management | Java, Spring Boot, MariaDB | Open-source OCPP server implementation for utility EV charging management, session metering, and charge-point operator (CPO) billing integration. |
+| **[volkszaehler.org](https://github.com/volkszaehler/volkszaehler.org)** | [![Stars](https://img.shields.io/github/stars/volkszaehler/volkszaehler.org?style=social&color=white)](https://github.com/volkszaehler/volkszaehler.org/stargazers) | Smart Meter Data Logger & Middleware | PHP, JavaScript, C | Open-source smart meter logging platform focused on data sovereignty and smart meter interface readout (SML, OBIS, D0, Modbus). |
+| **[OpenPAYGO Token](https://github.com/EnAccess/OpenPAYGO-Token)** | [![Stars](https://img.shields.io/github/stars/EnAccess/OpenPAYGO-Token?style=social&color=white)](https://github.com/EnAccess/OpenPAYGO-Token/stargazers) | PAYGO Token & Activation Protocol | C, Python, Go | Standardized open-source token system for pay-as-you-go solar home systems, mini-grid meters, and off-grid utility billing (EnAccess Foundation). |
+| **[MicroPowerManager](https://github.com/EnAccess/micropowermanager)** | [![Stars](https://img.shields.io/github/stars/EnAccess/micropowermanager?style=social&color=white)](https://github.com/EnAccess/micropowermanager/stargazers) | Mini-Grid CRM & Meter Management | PHP, Laravel, Vue.js, MySQL | Turnkey customer management and ticketing ERP for decentralized mini-grids. Integrates with Steamaco, Spark, Calin, and Stron smart meters. |
+| **[OpenSmartMeter](https://github.com/EnAccess/OpenSmartMeter)** | [![Stars](https://img.shields.io/github/stars/EnAccess/OpenSmartMeter?style=social&color=white)](https://github.com/EnAccess/OpenSmartMeter/stargazers) | Open GSM Smart Meter Hardware & Firmware | C++, Hardware Design (KiCad) | Low-cost open-source smart electricity meter with cellular connectivity (2G/4G/NB-IoT) for rural electrification, micro-utilities, and solar grids. |
+| **[openMIC](https://github.com/GridProtectionAlliance/openMIC)** | [![Stars](https://img.shields.io/github/stars/GridProtectionAlliance/openMIC?style=social&color=white)](https://github.com/GridProtectionAlliance/openMIC/stargazers) | Meter Information Collection System | C#, .NET, Web GUI | Enterprise utility meter interrogation engine by Grid Protection Alliance. Connects with DFRs, Modbus meters, and substations over IP/RAS. |
+| **[Mwanzo Flats Management](https://github.com/Fredrickmureti/tenant-management-system)** | [![Stars](https://img.shields.io/github/stars/Fredrickmureti/tenant-management-system?style=social&color=white)](https://github.com/Fredrickmureti/tenant-management-system/stargazers) | Tenant & Utility Sub-Meter Billing | TypeScript, React, Supabase | Sub-metering tenant portal with automated meter reading entry, utility balance computation, and self-service account management. |
+| **[Metrify Smart Metering](https://github.com/kanhaiya-gupta/DataEngineering-metrify-smart-metering)** | [![Stars](https://img.shields.io/github/stars/kanhaiya-gupta/DataEngineering-metrify-smart-metering?style=social&color=white)](https://github.com/kanhaiya-gupta/DataEngineering-metrify-smart-metering/stargazers) | Real-Time AMI Stream Pipeline | Python, Apache Kafka, Snowflake, Airflow | Production data engineering pipeline for streaming high-frequency AMI electricity meter readings, anomaly detection, and analytics. |
+
+### 🧩 Specialized Utilities Libraries & Ingestion Tools
+
+- **[dlms-bridge-mcp](https://pypi.org/project/dlms-bridge-mcp/)** — Bridges IEC 62056 DLMS/COSEM smart-meter protocols to AI agents and modern backends via Model Context Protocol (MCP).
+- **[aemo-mdff-reader](https://pypi.org/project/aemo-mdff-reader/)** — Ultra-fast streaming reader for NEM12/NEM13 meter data file formats (MDFF), processing 2M+ readings/sec.
+- **[oomi-influx](https://pypi.org/project/oomi-influx/)** — Headless ETL pipeline extracting 15-minute smart meter readings from Salesforce Experience Cloud into InfluxDB.
+- **[Calin-Meter-Package](https://github.com/inensus/Calin-Meter-Package)** & **[Steama-Meter-Package](https://github.com/inensus/Steama-Meter-Package)** — Smart STS prepaid meter drivers for MicroPowerManager mini-grids.
+- **[NeoBill](https://sourceforge.net/projects/solidstate/)** — High-performance GPLv2 web-based billing and customer management tool for regional utilities.
 
 ---
 
+## 🛠️ Utility CRM Architecture & Stack Guide
 
+To build a **100% vendor-independent, self-hosted Utility CRM stack**, combine:
 
-**Made for utility operators, energy retailers, mini-grid managers, and developers building transparent energy CRM solutions.**  
+1. **CRM & Account Management**: [MicroPowerManager](https://github.com/EnAccess/micropowermanager) or [Kill Bill](https://github.com/killbill/killbill)
+2. **Smart Meter Ingestion & Telemetry**: [OpenRemote](https://github.com/openremote/openremote) or [volkszaehler.org](https://github.com/volkszaehler/volkszaehler.org)
+3. **Data Pipeline & Timeseries Analytics**: Kafka + TimescaleDB / InfluxDB via [metrify-smart-metering](https://github.com/kanhaiya-gupta/DataEngineering-metrify-smart-metering)
+4. **Tariff & Energy Dispatch**: [OpenEMS](https://github.com/OpenEMS/openems) for dynamic rate optimization and DER controls
 
-Let's make Energy & Utilities CRM more open, data-driven, and efficient.
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help keep this ecosystem comprehensive, factual, and up to date:
+
+1. 🍴 **Fork the repository**
+2. 🌿 **Create a feature branch** (`git checkout -b add-utility-platform`)
+3. 📝 **Add your entry** (maintain alphabetical or sorted ranking, provide official links, and adhere to tabular schema)
+4. 🚀 **Submit a Pull Request** with a concise description of why the tool belongs in this list
+
+Please review our contribution guidelines and ensure all descriptions remain objective.
+
+---
+
+## 💖 Support
+
+If you found this curated ecosystem helpful in your utility architecture or energy transition journey, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it
+- 🍴 **Fork and share** with colleagues across the energy & utility tech community
+- ☕ **Support the maintainer**: You can sponsor this project via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
+
+Thank you to all contributors and open-source utility innovators! 🙏
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Energy-Utilities-CRM&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Energy-Utilities-CRM&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This repository is a **community-curated index** provided for educational and architectural reference only. It does not constitute a formal commercial endorsement.
+- Utility software handling customer identity (PII) and consumption data must comply with local privacy regulations (GDPR, CCPA) and critical infrastructure cybersecurity standards (NERC CIP, NIS2, IEC 62443).
+- Always perform comprehensive security audits before deploying self-hosted billing and meter management systems in production.
+
+---
+
+<p align="center">
+  <sub>Maintained with ❤️ by the open energy community for utility operators, energy retailers, clean-tech engineers, and mini-grid builders worldwide.</sub>
+</p>
