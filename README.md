@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Energy & Utilities Customer Information System (CIS) and CRM market is valued between **$2 billion and $10 billion** (scaling past **$20 billion** by the 2030s, driven by smart metering, DER integration, and grid modernization). The sector is **moderately fragmented**: while legacy enterprise titans (Oracle, SAP, and Salesforce) dominate large-scale utility operations, regional regulatory variations, retail deregulation, and modern composable architectures have fostered specialized high-growth mid-market competitors and digital customer-engagement platforms.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Energy and Utilities Cloud](https://www.salesforce.com/energy-utilities/)**  
-
-  Purpose-built CRM for utilities and energy companies. Features Industries CPQ for rates and pricing, OmniStudio for guided workflows, Smart Utility Contact Centre, clean energy program management, and field service for utilities. 70 of the 100 largest energy companies worldwide use Salesforce . Editions range from Starter to Premium ($350-$700/user/month) .
-
-
-
-- **[Oracle Utilities Customer Cloud](https://www.oracle.com/utilities/)**  
-
-  Comprehensive customer information system (CIS) and billing platform for utilities. Features meter-to-cash processing, customer self-service, and integration with Oracle Utilities applications.
-
-
-
-- **[SAP for Utilities](https://www.sap.com/industries/utilities.html)**  
-
-  Enterprise solution for utility customer management, billing, and device management. Integrated with SAP S/4HANA for financial and operational processes.
-
-
-
-- **[Hansen Technologies](https://www.hansencx.com/)**  
-
-  Customer care and billing solutions for utilities and telecommunications. Features revenue management, meter data management, and customer engagement.
-
-
-
-- **[Gentrack](https://www.gentrack.com/)**  
-
-  Utility billing and customer care platform. Features billing, CRM, meter data management, and market interaction for energy retailers.
-
-
-
-- **[SEW Smart Customer Mobile](https://www.sew.ai/)**  
-
-  Digital customer engagement platform for utilities. Features mobile app, self-service portal, and omnichannel communication.
-
-
-
-- **[Uplight](https://uplight.com/)**  
-
-  Customer energy engagement platform. Features personalized energy insights, demand response, and marketplace solutions for utilities.
-
-
-
-- **[VertexOne](https://www.vertexone.net/)**  
-
-  Customer information system and billing platform for utilities. Features billing, CRM, and customer self-service.
-
-
-
-- **[Fluentgrid](https://www.fluentgrid.com/)**  
-
-  Smart utility solutions including customer management, billing, and field service management.
-
-
-
-- **[Agility CIS](https://www.agilitycis.com/)**  
-
-  Customer information system for energy and utility retailers. Features billing, CRM, and market operations.
+| Platform | Company Size (Revenue / Valuation) | Pricing | Free Tier / Trial Limit | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Oracle Utilities Customer Cloud](https://www.oracle.com/utilities/)** | **~$415B–$440B Valuation** (~$57B–$67B FY25/26 Rev) | Tiered SaaS from **$1.00 – $3.00/billable customer/month** (enterprise subscription base) | **30-day trial** via Oracle Cloud Free Tier ($300 cloud credits; production CCS requires sales-provisioned PoC sandbox) | Comprehensive customer information system (CIS) and billing platform for utilities. Features meter-to-cash processing, customer self-service, and integration with Oracle Utilities applications. |
+| **[SAP for Utilities](https://www.sap.com/industries/utilities.html)** | **~$220B–$245B Valuation** (~€37B–€38B+ FY25/26 Rev) | Entry RISE/Cloud packages from **~$2,000 – $5,000/FUE/year** (or volumetric Point of Delivery rates) | **30-day free trial** for SAP Cloud for Energy / S/4HANA Cloud (guided tour with sample utility data; extendable up to 90 days on SAP BTP) | Enterprise solution for utility customer management, billing, and device management. Integrated with SAP S/4HANA for financial and operational processes. |
+| **[Salesforce Energy and Utilities Cloud](https://www.salesforce.com/energy-utilities/)** | **~$185B–$200B Valuation** (~$41.5B FY26 Rev) | Starting at **$350/user/month** (Starter Core) up to **$650–$700/user/month** (Service Max) | **30-day free trial** (pre-configured environment with sample utility data and guided workflows; no credit card required) | Purpose-built CRM for utilities and energy companies. Features Industries CPQ for rates and pricing, OmniStudio for guided workflows, Smart Utility Contact Centre, clean energy program management, and field service for utilities. |
+| **[Uplight](https://uplight.com/)** | **$1.5B Valuation** (~$100M+ ARR) | Modular subscriptions starting from **$10,000/year** (custom-scoped utility base packages) | **14 to 30-day guided evaluation pilot / sandbox** upon request (no self-serve free-forever tier) | Customer energy engagement platform. Features personalized energy insights, demand response, and marketplace solutions for utilities. Backed by Schneider Electric and Octopus Energy. |
+| **[Hansen Technologies](https://www.hansencx.com/)** | **~A$690M–$700M Market Cap** (~A$386M Annual Rev) | Modular enterprise CIS/billing deployments from **A$100,000+/year** (or A$0.50–$2.00/meter/year) | **Custom 30-day proof-of-concept (PoC)** environment for qualified utility operators (no public free tier) | Customer care and billing solutions for utilities and telecommunications. Features revenue management, meter data management, and customer engagement. |
+| **[Gentrack](https://www.gentrack.com/)** | **~NZD $410M–$460M Market Cap** (~NZD $220M–$230M Annual Rev) | Custom deployment baseline starting from **NZ$500,000** (one-time deployment tier + recurring SaaS) | **Interactive guided product demo / 30-day pilot sandbox** arranged via sales (no self-serve free tier) | Utility billing and customer care platform. Features billing, CRM, meter data management, and market interaction for energy retailers. |
+| **[VertexOne](https://www.vertexone.net/)** | **~$200M+ Valuation** (~$150M–$160M Annual Rev) | Directory baseline starting at **$1.00/user/month** (enterprise CIS contracts scale by connection/meter count) | **14 to 30-day utility proof-of-concept (PoC)** upon enterprise qualification (no public free tier) | Customer information system and billing platform for utilities. Features billing, CRM, and customer self-service supporting 400+ utilities. |
+| **[SEW Smart Customer Mobile](https://www.sew.ai/)** | **~$100M–$150M Valuation** (~$50M–$80M ARR) | Private enterprise offers starting from **$25,000–$50,000/year** (scaled by customer connection volume) | **30-day enterprise pilot / staged demo sandbox** upon request via AWS Marketplace / direct sales (no public free tier) | Digital customer engagement platform for utilities. Features mobile app, self-service portal, and omnichannel communication. |
+| **[Fluentgrid](https://www.fluentgrid.com/)** | **~₹700M–₹1,000M Valuation** (~₹200M–₹220M Annual Rev) | Modular packages starting from **₹500,000+/year** (~$6,000/year base depending on consumer footprint) | **30-day tailored proof-of-concept / demo sandbox** for municipal and regional utilities (no public free tier) | Smart utility solutions including customer management, billing, and field service management. |
+| **[Agility CIS](https://www.agilitycis.com/)** | **~$150M–$200M Valuation** (Tally Group / SilverTree PE; ~$25M–$40M Rev) | Tiered meter/retailer baseline starting from **$30,000/year** (custom volumetric rates per consumer) | **30-day guided proof-of-concept / demo access** upon sales consultation (no public free tier) | Customer information system for energy and utility retailers. Features billing, CRM, and market operations. |
 
 
 
