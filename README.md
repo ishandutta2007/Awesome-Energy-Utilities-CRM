@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Energy-Utilities-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Energy-Utilities-CRM?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Energy-Utilities-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Energy-Utilities-CRM?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Energy-Utilities-CRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Energy-Utilities-CRM?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Energy-Utilities-CRM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -59,9 +59,9 @@ The sector is **moderately fragmented**: while legacy enterprise titans (**Oracl
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosted utility management, meter-to-cash billing, smart grid IoT, DLMS/COSEM meter data exchange, and PAYGO mini-grid operations, **sorted by GitHub star count (descending)**:
+Curated open-source projects for self-hosted utility management, meter-to-cash billing, smart grid IoT, DLMS/COSEM meter data exchange, and PAYGO mini-grid operations, **sorted by GitHub Stars_Count (descending)**:
 
-| Project | GitHub Stars | Focus / Category | Tech Stack | Highlights |
+| Project | GitHub_Stars | Focus / Category | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Kill Bill](https://github.com/killbill/killbill)** | [![Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Subscription & Utility Billing Engine | Java, MySQL / PostgreSQL | Industrial open-source recurring billing and payment engine suitable for energy retailers, utility account cycles, and complex rating models. |
 | **[InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)** | [![Stars](https://img.shields.io/github/stars/InvoicePlane/InvoicePlane?style=social&color=white)](https://github.com/InvoicePlane/InvoicePlane/stargazers) | Self-Hosted Invoicing & Client Portal | PHP, MySQL | Lightweight open-source client management and recurring billing tool for municipal utilities, local cooperatives, and service providers. |
